@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="container font col-md-12">
+    <div class="container">
         <h1>About Marvel Studios</h1><br><br><br>
         <p >Marvel Studios, LLC (originally known as Marvel Films from 1993 to 1996) is an American motion picture studio based at The Walt Disney Studios in Burbank, California and is a subsidiary of Walt Disney Studios, itself a wholly owned division of The Walt Disney Company, with film producer Kevin Feige serving as president. Previously, the studio was a subsidiary of Marvel Entertainment until Disney reorganized the companies in August 2015.</p>
 
