@@ -19,7 +19,7 @@ class InsertingCarTest extends TestCase
         $user->make='honda';
         $user->model='X60';
         $user->year='2018';
-        $user->save();
+        //$user->save();
         $this->assertTrue($user=!NULL);
     }
 
